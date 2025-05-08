@@ -14709,7 +14709,7 @@ xclip
 
 nav.nav-area ul {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   padding: 0px;
   margin: 0;
 }
